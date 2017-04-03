@@ -1,0 +1,26 @@
+/* ------------------------------------------
+   settings.VARIABLES
+------------------------------------------ */
+
+// Typo
+$ff-body: "Space Mono", monospace;
+
+// Colors
+$color-primary: #F72782;
+$color-secondary: #0E64FF;
+
+$dark: #1C1D1E;
+$light: #FAFAFA;
+
+// Layout
+$gutter: 20px;
+
+// Animations
+$transition-in: .1s;
+$transition-out: .3s;
+
+// Z-Index Map
+$zindex: (
+  header: 1000,
+  modal: 2000
+);
