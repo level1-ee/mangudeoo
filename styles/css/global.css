@@ -573,6 +573,28 @@ body {
   text-transform: none;
 }
 
+.c-schedule {
+  margin-bottom: 100px;
+}
+
+.c-schedule__title {
+  font-size: 1.875rem;
+  color: #F72782;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.c-schedule ul {
+  list-style: none;
+  line-height: 1.6;
+  margin-bottom: 50px;
+}
+
+.c-schedule__plan {
+  text-align: center;
+}
+
 .c-faq {
   margin-bottom: 100px;
 }

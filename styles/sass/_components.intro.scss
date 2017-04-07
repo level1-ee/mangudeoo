@@ -80,6 +80,29 @@
     }
 }
 
+.c-schedule {
+    margin-bottom: 100px;
+
+    &__title {
+        font-size: rem-calc(30);
+        color: $color-primary;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    ul {
+        list-style: none;
+        line-height: 1.6;
+        margin-bottom: 50px;
+    }
+
+    &__plan {
+        text-align: center;
+    }
+
+}
+
 .c-faq {
     margin-bottom: 100px;
     &__title {
